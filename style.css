@@ -189,12 +189,11 @@ body {
 
 .attribution a {
   color: hsl(var(--Very-dark-grayish-blue));
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .attribution a:hover {
   text-shadow: 0 0 1rem;
-  text-decoration: underline;
 }
 
 @media screen and (min-width: 37.5rem) {
