@@ -54,4 +54,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@NiloyDas07](https://www.frontendmentor.io/profile/NiloyDas07)
-- [GitHub](https://github.com/NiloyDas07)
+- Github - [@NiloyDas07](https://github.com/NiloyDas07)
