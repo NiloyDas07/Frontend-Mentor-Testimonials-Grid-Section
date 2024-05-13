@@ -43,7 +43,9 @@ Users should be able to:
 
 ### What I learned
 
-The concepts of CSS Grid have become much clearer to me. I now feel more comfortable and confident using Grid in my future projects. Earlier, I just used Flexbox everywhere, regardless of the layout.
+- The concepts of CSS Grid have become much clearer to me. I now feel more comfortable and confident using Grid in my future projects. Earlier, I just used Flexbox everywhere, regardless of the layout.
+
+- I learnt about BEM and tried using it for the first time.
 
 ### Useful resources
 
